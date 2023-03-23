@@ -1,0 +1,18 @@
+*{
+    margin:0;
+    padding: 0;
+
+}
+
+.twoPart{
+    display: flex;
+    justify-content: center;
+
+
+}
+
+
+.img{
+    width: 60vh;
+    height: 30vh;
+}
